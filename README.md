@@ -2,8 +2,8 @@
 
 <img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-5.8cbd2dc.ebd0b7a5a9f7f1ec142b7662189d3a79.gif" alt="Animated GIF">
 
-<h1>💫 About Me:</h1>
-<ul style="text-align: center;">
+<h1>💫 About Me</h1>
+<ul>
   <li><strong>🔭</strong> I’m currently Studying in Masai School</li>
   <li><strong>👯</strong> I’m looking to collaborate on React</li>
   <li><strong>🤝</strong> I’m looking for help with React</li>
@@ -11,7 +11,8 @@
   <li><strong>💬</strong> Ask me about Anything</li>
   <li><strong>⚡</strong> Fun fact In India there are about 398 spoken languages. But coding has us beat with over 700 coding languages in use today! Only two countries speak more languages, Papua New Guinea (836) and Indonesia (710).</li>
 </ul>
-
+<hr>
+  <h1>🌐 Social Media</h1>
 <div>
   <a href="https://www.facebook.com/profile.php?id=100011090955688">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
@@ -23,7 +24,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-
+<hr>
+   <h1>💻 Tech Stack</h1>
 <div>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -43,7 +45,7 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
-
+<hr>
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=monurajputrko&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
