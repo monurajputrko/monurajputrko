@@ -1,4 +1,4 @@
-![Web Devloper](https://camo.githubusercontent.com/4f0c9134f516ed91fd2b240be017693dcb0ac712daa491b3c672ff0951dca3b8/68747470733a2f2f7777772e74696d65666f727468657765622e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f31302f74696d65666f727468657765622d426c6f672d496d6167652e676966)
+![Web Devloper](https://www.sean-lloyd.com/assets/static/20210303-dino-game-5.8cbd2dc.ebd0b7a5a9f7f1ec142b7662189d3a79.gif)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100011090955688) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monurajputrko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/monurajputrko) 
