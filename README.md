@@ -1,5 +1,8 @@
 ![Web Devloper](https://www.sean-lloyd.com/assets/static/20210303-dino-game-5.8cbd2dc.ebd0b7a5a9f7f1ec142b7662189d3a79.gif)
 
+# 💫 About Me:
+🔭 I’m currently Studying in Masai School<br>👯 I’m looking to collaborate on React<br>🤝 I’m looking for help with React<br>🌱 I’m currently Enrolled in Full Stack Web Devloper Course In Masai<br>💬 Ask me about Anything<br>⚡ Fun fact In India there are about 398 spoken languages. But coding has us beat with over 700 coding languages in use today! Only two countries speak more languages, Papua New Guinea (836) and Indonesia (710).
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011090955688) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monurajputrko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monu-singh-477931220/)
 
