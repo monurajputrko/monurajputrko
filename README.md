@@ -97,6 +97,6 @@
   
   <h2>😂 Random Dev Meme </h2>
   <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*i3sm4Ahbek0zsuctqiORBg.jpeg" width="100%"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*i3sm4Ahbek0zsuctqiORBg.jpeg" width="60%"/>
 </div>  
----
+
