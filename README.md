@@ -1,6 +1,6 @@
 
 
-![Web Devloper](https://www.sean-lloyd.com/assets/static/20210303-dino-game-5.8cbd2dc.ebd0b7a5a9f7f1ec142b7662189d3a79.gif)
+![Web Devloper](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <!-- <img src="https://miro.medium.com/v2/resize:fit:1400/1*i3sm4Ahbek0zsuctqiORBg.jpeg" width="100%"/> -->
 
 # 💫 About Me:
