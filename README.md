@@ -66,10 +66,10 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monurajputrko&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" align="center" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monurajputrko&theme=chartreuse-dark&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monurajputrko&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="center" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=monurajputrko&theme=dark&hide_border=false" align="center" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monurajputrko&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monurajputrko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" />
 </div>
 <br/>
 <!-- <div align="center"></div>
